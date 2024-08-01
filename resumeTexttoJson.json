@@ -1,0 +1,103 @@
+{
+  "personal_information": {
+    "name": "Khushit Rathod",
+    "contact": {
+      "phone": "+91-9529207722",
+      "email": "khushit.p.rathod@gmail.com",
+      "address": "Pune, Maharashtra"
+    }
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Information Technology",
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Information Technology",
+      "start_date": "2021",
+      "end_date": "2025"
+    },
+    {
+      "institution": "Sant Mai Junior College",
+      "degree": "Higher Secondary Education",
+      "field_of_study": "State Board",
+      "start_date": "2020",
+      "end_date": "2021"
+    },
+    {
+      "institution": "Mount St. Patrick Academy",
+      "degree": "Secondary Education",
+      "field_of_study": "ICSE",
+      "start_date": "2010",
+      "end_date": "2019"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Oasis Infobyte",
+      "job_title": "Web Developer",
+      "start_date": "July 2023",
+      "end_date": "July 2023",
+      "responsibilities": [
+        "Assisted in designing and optimizing user interfaces for improved usability and responsiveness.",
+        "Demonstrated initiative and adaptability while learning new technologies and tools in a fast-paced environment."
+      ]
+    },
+    {
+      "company": "LetsGrowMore",
+      "job_title": "Web Developer",
+      "start_date": "June 2023",
+      "end_date": "June 2023",
+      "responsibilities": [
+        "Assisted in designing and optimizing user interfaces for improved usability and responsiveness.",
+        "Demonstrated initiative and adaptability while learning new technologies and tools in a fast-paced environment."
+      ]
+    }
+  ],
+  "skills": [
+    "Data Structures & Algorithms",
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "Database Management Systems (DBMS)",
+    "Machine Learning",
+    "Web Development",
+    "Computer Networks",
+    "Operating Systems"
+  ],
+  "projects": [
+    {
+      "title": "Healthcare Chatbot",
+      "technologies": ["Python", "HTML", "CSS", "React", "MongoDB"],
+      "date": "November 2023",
+      "description": [
+        "Developed an AI healthcare chatbot using artificial neural network (ANN) model and natural language processing (NLP), integrated with React frontend and MongoDB backend.",
+        "Designed and implemented conversational interfaces for patient inquiries, symptom analysis, and medical recommendations."
+      ]
+    },
+    {
+      "title": "Event Management System",
+      "technologies": ["Java", "AWT", "Swing", "SQL"],
+      "date": "August 2023",
+      "description": [
+        "Designed and developed user-friendly interfaces for efficient event scheduling, attendee management, and reporting functionalities.",
+        "Demonstrated proficiency in Java programming, GUI development, and database integration."
+      ]
+    },
+    {
+      "title": "KGamify",
+      "technologies": ["HTML", "CSS", "PHP", "SQL", "Dart"],
+      "date": "April 2023",
+      "description": [
+        "Created KGamify, a gamified learning platform with a PHP/SQL backend and Flutter app.",
+        "Developed admin and teacher panels for seamless management.",
+        "Achieved efficient project coordination and impactful user engagement through innovative gamification strategies."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Google Cloud Arcade Program",
+      "issuer": "Google Cloud",
+      "issue_date": null,
+      "expiration_date": null
+    }
+  ]
+}
